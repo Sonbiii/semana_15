@@ -1,2 +1,1 @@
-# semana_15
-
+Proyecto de Motor de Juego - Versión 1.0
